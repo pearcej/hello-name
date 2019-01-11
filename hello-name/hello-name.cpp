@@ -1,5 +1,5 @@
-// L01: Intro to VS, Github, and ASCII Art 
-// by Dr. Jan Pearce
+/* L01: Intro to VS, Github, and ASCII Art
+   by <Put your name here.> */  
 
 #include <iostream>
 #include <string>
