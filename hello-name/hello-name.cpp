@@ -1,3 +1,6 @@
+/* L01: Intro to VS, Github, and ASCII Art
+   by <Put your name here.> */  
+
 #include <iostream>
 #include <string>
 using namespace std;
