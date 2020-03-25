@@ -77,7 +77,7 @@ on what you learned and your reactions to this lab.*
 
 # Update and Debug - Due at Final milestone
 
-Note: All FIXME's should be *fixed* at each milestone, so there should be none left after final submission.
+Note: All FIXME's should have been *fixed* at each milestone, so there should be none left after final submission.
 
 12. **INTEGRITY STATEMENT**
 *Please briefly describe ALL help you received and
