@@ -1,4 +1,4 @@
-#[L01: ASCII Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing)
+# [L01: ASCII Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing)
 
 This first lab is designed to help us learn to use our tools and to program in C++.
 
@@ -74,6 +74,10 @@ and deficiencies with a very brief explanation.*
 on what you learned and your reactions to this lab.*
 
 *FIXME*
+
+# Update and Debug - Due at Final milestone
+
+Note: All FIXME's should be *fixed* at each milestone, so there should be none left after final submission.
 
 12. **INTEGRITY STATEMENT**
 *Please briefly describe ALL help you received and
