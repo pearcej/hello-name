@@ -8,6 +8,7 @@ This first lab is designed to help us learn to use our tools and to program in C
 - Author of modified ASCII art program: *FIXME*
 
 # Planning Prompts
+## Due at Milestone 1
 
 1. **ART CHOICE**
 *Go to [Christopher Johnson's ASCII Art Collection ](https://asciiart.website/) and find a piece of ASCII art that you would like to modify and render in C++ using cout.  What did you find? Please note that it is fine either to modify it only a little or quite significantly. Put the URL here AND also in a comment in your code or state that your art is original in both places.*
@@ -37,6 +38,7 @@ This first lab is designed to help us learn to use our tools and to program in C
   - *FIXME*
 
 # Implementation & Customization Prompts
+## Due at  Milestone 2
 
 6. **TITLE**
 *Please choose a title for you art.*
@@ -75,7 +77,8 @@ on what you learned and your reactions to this lab.*
 
 *FIXME*
 
-# Update and Debug - Due at Final milestone
+# Update, Debug, and Integrity Statement
+## Due at Final milestone
 
 Note: All FIXME's should have been *fixed* at each milestone, so there should be none left after final submission.
 
